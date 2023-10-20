@@ -1,16 +1,11 @@
-# basic_chess
+# Basic Chess
 
-A new Flutter project.
+a basic chess game including simple moves in Flutter
 
-## Getting Started
+## Screenshot
+![simple_chess](https://github.com/merihcavdar/basic_chess/assets/84540989/5c7dcfa6-3e06-45f5-b27a-1d7941e7eaff)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Image.asset
+- List operations
+- Chess rules applied to logic
